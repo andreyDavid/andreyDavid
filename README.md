@@ -17,4 +17,4 @@ I am a software engineer with hands on expiriance using Python and JS. I am pass
 
 ## 📫 Get in touch
 - LinkedIn - [Andrey David](https://www.linkedin.com/in/andreydavid/)
-- Email - [mail](mailto:andrey880@gmail.com) 
+- [Email](mailto:andrey880@gmail.com) 
