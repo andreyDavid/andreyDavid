@@ -8,11 +8,10 @@ I am a software engineer with hands on expiriance using Python and JS. I am pass
 
 
 ## ⚡ Tech Stack
-
-* 🗣 Python | Java Script | SQL 
-*    React
-*    AWS | Docker
-
+- 🗣 Python 𒑰 Java Script 𒑰 TypeScript
+- 🎒 NodeJS 𒑰 Express 𒑰 Socket.IO
+- ☁ AWS 
+- ♽ Docker 𒑰 Jenkins
 
 
 ## 📫 Get in touch
