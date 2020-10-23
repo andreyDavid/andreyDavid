@@ -17,4 +17,8 @@ I am a software engineer with hands on expiriance using Python and JS. I am pass
 
 ## 📫 Get in touch
 - LinkedIn - [Andrey David](https://www.linkedin.com/in/andreydavid/)
-- [Email](mailto:andrey880@gmail.com) 
+- [Email](mailto:andrey880@gmail.com)
+<p align="center">
+  <a href="mailto:andrey880@gmail.com"><img src = "https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white"></a>   
+  <a href=(https://www.linkedin.com/in/andreydavid/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+</p>
