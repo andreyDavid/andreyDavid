@@ -4,7 +4,7 @@
 
 I am a software engineer with hands on expiriance using Python and JS. I am passionate about technologies and love to learn new things, currenctly on my way to beacome a full stack developer.
 
-#### 🔭 I’m currently working at Rapyd  .
+#### 🔭 I’m currently working at Rapyd - as an automation engineer  .
 
 
 ## ⚡ Tech Stack
@@ -16,14 +16,5 @@ I am a software engineer with hands on expiriance using Python and JS. I am pass
 
 
 ## 📫 Get in touch
-- LinkedIn - [Adnan Azmee](https://www.linkedin.com/in/andreydavid/)
-
-
- or give some ♥ on [mail](mailto:adnanazmee@gmail.com) .
-
-
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=adnanazmee/adnanazmee)
-
-
- 
+- LinkedIn - [Andrey David](https://www.linkedin.com/in/andreydavid/)
+- Email - [mail](mailto:andrey880@gmail.com) 
