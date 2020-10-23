@@ -2,7 +2,7 @@
 
 # Hi, you've reached Andrey's Git! <br>I'm not in right now, please leave a message
 
-I am a software engineer with hands on expiriance using Python and JS. I am passionate about technologies and love to learn new things, currenctly on my way to beacome a full stack developer.
+I am a software engineer with hands on expiriance using Python and JS. I am passionate about technologies and love to learn new things, always learninig to beacome a better full front end developer.
 
 #### 🔭 I’m currently working on Cypress & Node.js projects
 
