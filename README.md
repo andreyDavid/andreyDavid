@@ -2,16 +2,16 @@
 
 # Hi, you've reached Andrey's Git! <br>I'm not in right now, please leave a message
 
-I am a software engineer with hands on expiriance using Python and JS. I am passionate about technologies and love to learn new things, always learninig to beacome a better full front end developer.
+I am a software engineer with hands on expiriance using Python. I am passionate about technologies and love to learn new things, always learninig to beacome a better full front end developer.
 
 #### 🔭 I’m currently working on Cypress & Node.js projects
 
 
 ## ⚡ Tech Stack
-- 🗣 Python 𒑰 Java Script 
-- 🎒 NodeJS 𒑰 React
+- 🗣 Python
+- 🎒
 - ☁ AWS 
-- ♽ Docker 𒑰 Jenkins
+- ♽ Docker
 
 
 ## 📫 Get in touch
